@@ -24,4 +24,22 @@ GROUP BY
 ORDER BY
   comment_count DESC
 LIMIT
-  10
+  10;
+
+/*
+Finding the number of stories that are marked as 'dead' and comparing their average scores with active stories.
+
+All the 849000+ stories are 'dead', which would mean that this dataset is outdated, and cannot be compared to today.
+
+The average score for all of these stories is 1.4, suggesting that a lot of stories did not have a good post reach.
+*/
+
+SELECT COUNT(title) as number_of_stories, ROUND(AVG(score), 1) as mean_score, dead
+FROM `bigquery-public-data.hacker_news.full`
+WHERE dead = TRUE
+GROUP BY dead;
+
+-- Confirmation of dataset consisting of dead stories
+SELECT title
+FROM `bigquery-public-data.hacker_news.full`
+WHERE dead = FALSE;
