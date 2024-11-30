@@ -9,7 +9,8 @@ This dataset includes all the posts on the website, comments, threads and overal
 ### Tools Used
 - Google Cloud Platform - Google BigQuery
 - SQL
-- Data Inference Skills
+- Python
+- Data Science
 
 ### Findings
 (TO BE UPDATED)
