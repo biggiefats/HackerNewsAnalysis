@@ -10,7 +10,7 @@ This dataset includes all the posts on the website, comments, threads and overal
 - Google Cloud Platform - Google BigQuery Dashboard
 - SQL
 - Python
-- PPDAC cycle
+- PPDAC Methodology
 - Google Colab / Jupyter Notebook
 - Git + GitHub
 - Data Science
