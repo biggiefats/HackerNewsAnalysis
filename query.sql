@@ -2,7 +2,8 @@
 Finding the top 10 stories with the most comments.
 
 The top 10 titles seem to variate.
-Google and Facebook are 2nd and 6th respectively, and they are
+
+'Google' and 'Facebook' are 2nd and 6th respectively, and they are
 both top companies for people in tech.
 
 'Test' and 'Placeholder' seem to be stories that are just
