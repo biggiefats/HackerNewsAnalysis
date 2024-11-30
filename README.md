@@ -11,6 +11,3 @@ This dataset includes all the posts on the website, comments, threads and overal
 - SQL
 - Python
 - Data Science
-
-### Findings
-(TO BE UPDATED)
