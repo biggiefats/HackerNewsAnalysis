@@ -1,0 +1,1 @@
+[Query 1 - Top 10 Stories](https://console.cloud.google.com/bigquery?sq=583448529991:c55d335e10004bd299031f79fb5e1faa)
