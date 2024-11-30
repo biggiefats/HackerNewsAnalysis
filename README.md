@@ -7,7 +7,9 @@ The dataset was made in 2016 and was last updated in 2022.
 This dataset includes all the posts on the website, comments, threads and overall reception.
 
 ### Tools Used
-- Google Cloud Platform - Google BigQuery
+- Google Cloud Platform - Google BigQuery Dashboard
 - SQL
 - Python
+- Google Colab / Jupyter Notebook
+- Git + GitHub
 - Data Science
