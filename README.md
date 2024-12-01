@@ -1,4 +1,4 @@
-# HackerNewsAnalysis
+# Hacker News Exploratory Data Analysis
 **Querying the Y Combinator's Hacker News API via GCP and SQL.**
 
 ### What is the Y Combinator's Hacker News?
