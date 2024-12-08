@@ -16,3 +16,4 @@ This dataset includes all the posts on the website, comments, threads and overal
 - Data Science
 
 ### Cool Stuff to Look At
+All of the visualisation can be found in the Images folder. More can be found on the Colab notebook.
