@@ -11,9 +11,11 @@ This dataset includes all the posts on the website, comments, threads and overal
 - SQL
 - Python
 - PPDAC Methodology
-- Google Colab / Jupyter Notebook
+- Google Colab / Jupyter Notebooks
 - Git + GitHub
 - Data Science
 
 ### Cool Stuff to Look At
-All of the visualisation can be found in the Images folder. More can be found on the Colab notebook.
+![Wordcloud of Words](Images/wordcloud_word_freq.png)
+![Score Tier Freqeuncy Graph for Quartiles](Images/score_tier_freq.png)
+![Rocket Ship of Score against Descendants](Images/score_descendants.png)
